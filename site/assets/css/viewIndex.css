@@ -1,0 +1,26 @@
+
+#primul {
+    display: -webkit-flex;
+    display: flex;
+    justify-content: space-around;
+
+
+
+}
+
+#prima {
+
+    width:800px;
+    height:800px
+}
+
+#date {
+
+    width:800px;
+    height:800px
+
+}
+
+#numeDiv{
+    width: 500px;
+}

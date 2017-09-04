@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="9f7dbeaa-bb82-4814-a481-e13e9de9378c" name="cioablaServer" url="http://lcioabla">
+        <fileTransfer port="0" mountedRoot="C:\wamp64\www" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</project>

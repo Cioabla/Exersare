@@ -1,0 +1,8 @@
+.containerLogin {
+    position: absolute;
+    width:500px;
+    height: 500px;
+    background-color: powderblue;
+    top: 10%;
+    left: 40%;
+}
