@@ -1,0 +1,110 @@
+body {
+    background-color: blanchedalmond;
+    text-align: center;
+}
+
+.login-container {
+    background-color: #246924;
+    display: inline-block;
+
+    margin-top: 50px;
+    border-radius: 6px;
+    width: 1000px;
+    padding: 0;
+
+}
+
+
+
+header h5{
+    text-align: center;
+    font-family: Serif;
+    color: midnightblue;
+    font-size: 50px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: #ffc666;
+    border-top-left-radius: 6px;
+    border-top-right-radius: 6px;
+
+}
+
+.login h1 {
+    font-size: 35px;
+    font-family: "Comic Sans MS";
+    margin-left: 50px;
+    margin-top: 15px;
+    color: white;
+    text-align: left;
+
+}
+
+.inp {
+    display: flex;
+    margin-left: 40px;
+}
+
+.inp2 {
+    display: flex;
+    margin-left: 40px;
+}
+
+.inp3 {
+    display: flex;
+    margin-left: 35px;
+}
+
+.inp h1 {
+    margin-right: 12.2%;
+    padding-left: 4%;
+}
+
+.inp2 h1 {
+    margin-right: 2.7%;
+}
+
+
+
+.login input {
+    width: 40%;
+    height: 60px;
+    font-size: 35px;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+.col-sm-5 input {
+    height: 120px;
+    width: 120px;
+    background-color: #4CAF50;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+
+}
+
+
+
+.redirect-home button {
+    margin-top: 5px;
+    height: 50px;
+    width: 120px;
+    background-color: #4CAF50;
+}
+
+.redirect-home button>a {
+    color: white;
+}
+
+.error {
+    background-color: white;
+}
+
+.error h1 {
+    color: red;
+    font-family: 'Open Sans' , sans-serif;
+    font-size: 30px;
+}

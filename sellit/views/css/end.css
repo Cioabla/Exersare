@@ -1,0 +1,15 @@
+footer {
+    background-color: #623514;
+    text-align: center;
+    height: 50px;
+    border-radius: 6px;
+
+}
+
+footer h4 {
+    margin-top: 0;
+    padding-top: 5px;
+    color: white;
+    padding-top: 15px;
+
+}

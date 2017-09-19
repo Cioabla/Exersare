@@ -1,0 +1,30 @@
+.all-choose {
+    background-color: #246924;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    border-radius: 6px;
+}
+
+.choose-list h2 {
+    padding-bottom: 5px;
+    padding-top: 5px;
+    text-align: center;
+    color: white;
+    font-family: cursive;
+    font-size: 20px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 30px;
+    color: black;
+    font-family:  system-ui;
+}
+
+.navbar-default .navbar-nav>li>a {
+    color: white;
+}
+
+body {
+    background-color: antiquewhite;
+}
